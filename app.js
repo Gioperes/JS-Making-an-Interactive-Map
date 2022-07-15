@@ -36,7 +36,7 @@ const myMap = {
 			.addTo(this.map)
 		}
 	},
-}
+};
 
 // get coordinates via geolocation api
 async function getCoords(){
